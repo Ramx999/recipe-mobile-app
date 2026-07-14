@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "RecipeApp",
+    "slug": "recipe-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": { "image": "./assets/splash.png", "resizeMode": "contain", "backgroundColor": "#ffffff" },
+    "plugins": ["expo-notifications"],
+    "android": { "package": "com.example.recipeapp" },
+    "ios": { "bundleIdentifier": "com.example.recipeapp" }
+  }
+}
